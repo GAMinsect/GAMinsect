@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @GAMinsect
-- 👀 I’m interested in Python and RN on Algorithmic Trading
-- 🌱 I’m currently learning Python and how API works
+- 👋 Hi, I’m @GAM
+- 👀 I’m learning in Python and have interest in fintech
 
 
 <!---
