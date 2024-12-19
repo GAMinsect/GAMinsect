@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GAM
-- 👀 I’m learning in Python and have interest in fintech
+- 👀 I’m learning Python and have interest in fintech
 
 
 <!---
